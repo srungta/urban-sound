@@ -8,3 +8,4 @@
 |chroma |36|
 |mel  |Could not run|
 |torrentz  |25|
+|all features|26|
